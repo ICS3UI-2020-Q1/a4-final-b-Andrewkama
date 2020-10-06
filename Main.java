@@ -21,7 +21,7 @@ do{
 int count = 0;
 // intaulize  varbiles so it start counting at one
 	 
-	System.out.println("The factors of " + userNum + " are:");// despla123y message 
+	System.out.println("The factors of " + userNum + " are:");// display message 
 while(userNum >= count){                                 // runs until the intager is equal or lager than the user number 
   count = count + 1;                                         // adds and counts up by one
 
